@@ -49,6 +49,7 @@ img{
     text-decoration: none;
     border-radius: 20px;
     box-shadow: 3px 3px 10px rgba(255, 166, 0, 0.632);
+    margin-top: 50px;
     
 }
 
@@ -69,8 +70,44 @@ img{
 }
 .home-content p{
     color: #A1A1A1;
-    padding-bottom: 50px;
+    
 }
 .h1Color{
     color: #FB944E;
 }
+
+/* home section end=== */
+
+/* aboute section start=== */
+
+.about{
+    background: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+}
+.about .abouteImage{
+    display: flex !important;
+    margin:  0 auto;
+    width: 55.5%;
+    height: auto;
+}
+
+.about-content{
+    padding: 100px 110px 0 80px;
+}
+.about-content h1{
+    color: #575757;
+    text-transform: capitalize;
+    padding-bottom: 30px;
+
+}
+.about-content p{
+    font-size: 18px;
+    line-height: 30px;
+    color: #606060;
+    
+
+}
+
+
+
+/* aboute section end=== */
